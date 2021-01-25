@@ -1,4 +1,4 @@
-*Created in 2017*
+*Created in 10-12-2017 by Niklas Wessman*
 # Minesweeper
 
  <img height="400px" src="./Docs/StartScreen.png" />
